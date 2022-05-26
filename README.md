@@ -1,5 +1,5 @@
 # spaced-rep-themes
-Themes for @conaticus' Spaced Repetition Program.
+Themes for [@conaticus](https://github.com/conaticus)' Spaced Repetition Program.
 
 ## Installation
 1. Download Git.
