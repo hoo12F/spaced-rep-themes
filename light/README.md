@@ -9,3 +9,5 @@ The classic light.
 **Text**: `#000000`
 <br>
 **Button**: `#0077ff`
+
+<img src="https://user-images.githubusercontent.com/96026994/170612356-d2ae8cf1-af76-4ef0-a545-d20539139c77.png">
