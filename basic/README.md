@@ -1,17 +1,9 @@
-# Spaced Repetition Software
+# Basic
 
-This is a desktop application that allows the users to create flash cards, that are shown at a software-determined time.
+The basic theme with minor changes to the original UI.
 
-Every time the user gets a question wrong, the question will appear one minute later until the question is correct. The first time a question is right, the user gets shown in a day, then a week, then a month, and then a year - and once a year from that point onwards.
-
-## Installation
-
--   Clone repository
--   `npm i`
--   `npm i -D`
--   `npm start`
-
-## Screenshots
-
-![Menu](/screenshots/ssone.png?raw=true "Menu")
-![Session](/screenshots/sstwo.png?raw=true "Session")
+## Color scheme
+**Background:** `#2d2d2d`
+**Text**: `#ffffff`
+**Buttons**: `#0077ff`
+![Untitled drawing (2)](https://user-images.githubusercontent.com/96026994/170613337-8b8c63c2-ee40-44d6-be26-0830a785dfd2.png)
