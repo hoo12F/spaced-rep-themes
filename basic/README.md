@@ -1,5 +1,5 @@
 # Basic
-
+<img src="https://user-images.githubusercontent.com/96026994/174458662-9011887d-ea9c-42f5-ac5c-e418ac629e07.JPG">
 The basic theme with minor changes to the original UI.
 
 ## Color scheme
